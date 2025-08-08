@@ -33,7 +33,7 @@ public class Ejercicios_Operadores {
 		 * - Muestre en pantalla la conversion en horas (con sus decimales)
 		 * 
 		 *                     EJEMPLO
-		 * 130 Minutos =2.10 Horas
+		 * 130 Minutos =2.17 Horas
 		 */
 
 		System.out.println("Introduce la cantidad de minutos totales:");
