@@ -1,6 +1,6 @@
 package _2_Variables;
 
-public class Ejercicios_Variables {
+public class Variables_Ejercicios {
 
 	public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package _5_Clase_Switch;
 import java.util.*;
-public class Ejercicio_Switch {
+public class Switch_Ejercicio {
 
 	public static void main(String[] args) {
 		/* ---------------------------------------------------------------------

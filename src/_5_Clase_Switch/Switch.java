@@ -2,7 +2,7 @@ package _5_Clase_Switch;
 
 import java.util.Scanner;
 
-public class Multiple_Seleccion_Switch {
+public class Switch {
 
 	public static void main(String[] args) {
 		/*------------------------------------------------------------
