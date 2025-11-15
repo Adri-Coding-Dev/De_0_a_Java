@@ -1,4 +1,4 @@
-package variables;
+package _2_Variables;
 
 public class Variables {
 

@@ -1,4 +1,4 @@
-package clase_switch;
+package _5_Clase_Switch;
 
 import java.util.Scanner;
 

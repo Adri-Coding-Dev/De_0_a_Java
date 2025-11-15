@@ -1,4 +1,4 @@
-package hola_mundo;
+package _1_Hola_Mundo;
 
 public class Hola_Mundo {
 
