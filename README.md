@@ -108,7 +108,7 @@ Sigue estos pasos para comenzar tu aprendizaje:
 1. **Clona el repositorio:**
    ```bash
    git clone https://github.com/Adri-Coding-Dev/De_0_a_Java.git
-   cd de-0-a-java
+   cd De_0_a_Java
    ```
 
 2. **Configura tu entorno:**
@@ -168,13 +168,13 @@ Si encuentras un error en el código o en la documentación:
 | Plataforma | Enlace | Propósito |
 |------------|--------|-----------|
 | 📧 Email | [adricoding647@gmail.com](mailto:adricoding647@gmail.com) | Consultas técnicas, colaboraciones |
-| 📺 YouTube | [De 0 a Java](https://www.youtube.com/@CodingWithAdri-s3n) | Tutoriales en vídeo, anuncios |
+| 📺 YouTube | [De 0 a Java](https://www.youtube.com/@Shadow_Error_Hack) | Tutoriales en vídeo, anuncios |
 | 💬 Discord | [Server de Discord](https://discord.gg/QZa9YupXKs) | Comunidad, soporte en tiempo real |
 | 📰 Blog | Próximamente | Artículos profundos, tutoriales escritos |
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT. Consult [LICENSE] para más detalles.
 
 ```
 MIT License
